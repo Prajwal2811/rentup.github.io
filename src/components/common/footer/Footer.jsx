@@ -45,7 +45,7 @@ const Footer = () => {
         </div>
       </footer>
       <div className='legal'>
-       <span>Designd By Prajwal I.</span>
+       <span>Designed By Prajwal I.</span>
       </div>
     </>
   )
